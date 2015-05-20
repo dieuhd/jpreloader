@@ -5,7 +5,7 @@
   "homepage": "https://github.com/dieuhd/jpreloader",
   "main": [
     "js/jpreloader.js",
-    "css/jpreloader.js"
+    "css/jpreloader.css"
   ],
   "keywords": [
     "jquery",
@@ -21,7 +21,7 @@
     "name": "dieuhd",
     "web": "http://gametech.vn"
   },
-  "licenses": "NewBSD",
+  "licenses": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
